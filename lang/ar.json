@@ -1,0 +1,11 @@
+{
+  "validation": {
+    "required": "%{attribute} field is required",
+    "maxLength": "%{attribute} field must be at most %{max} characters long",
+    "minLength": "%{attribute} field must be %{min} characters at least",
+    "email": "%{attribute} field is not a valid email address"
+  },
+  "heading": {
+    "login": "تسجيل الدخول إلى حسابك"
+  }
+}
